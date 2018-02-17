@@ -1,0 +1,97 @@
+Street,From,To,lat,lng
+Mission Street,25th Street,26th Street,37.7506482,-122.4183159
+Polk Street,Ellis Street,Olive Street,37.7840397,-122.4193807
+Van Ness Avenue,Geary Boulevard,Myrtle Street,37.7856601,-122.4214764
+Van Ness Avenue,Bush Street,Fern Street,37.7884986,-122.4218922
+Van Ness Avenue,Daniel Burnham Court,Post Street,37.7870844,-122.4217571
+Larkin Street,Cedar Street,Post Street,37.7865918,-122.418214
+Pine Street,Larkin Street,Polk Street,37.7898426,-122.4188741
+Pine Street,Polk Street,Van Ness Avenue,37.7896366,-122.4205069
+Larkin Street,Myrtle Street,Geary Street,37.7856499,-122.4180244
+Van Ness Avenue,Van Ness Avenue,Bush Street,37.7884986,-122.4218922
+Larkin Street,Sutter Street,Larkin Street,37.7879799,-122.4184982
+Larkin Street,McAllister Street,Fulton Street,37.78049559999999,-122.4170084
+23rd Street,Mission Street,Bartlett Street,37.7538455,-122.4186194
+23rd Street,Bartlett Street,Valencia Street,37.7537794,-122.4197291
+23rd Street,South Van Ness Avenue,Capp Street,37.753976,-122.4164407
+23rd Street,Mission Street,Capp Street,37.7538455,-122.4186194
+Bryant Street,Mariposa Street,17th Street,37.7630423,-122.4102673
+Van Ness Avenue,Post Street,Hemlock Street,37.7866423,-122.4215171
+Jessie Street,New Montgomery Street,Annie Street,37.787909,-122.4010664
+Van Ness Avenue,Bush Street,Austin Street,37.7884986,-122.4218922
+Van Ness Avenue,Clay Street,Washington Street,37.7921793,-122.4227822
+Van Ness Avenue,O'Farrell Street,Alice B. Toklas Place,37.7847623,-122.4212963
+Kearny Street,Geary Street,Maiden Lane,37.7879767,-122.4035082
+Kearny Street,Kearny Street,Post Street,37.7889065,-122.4036866
+Polk Street,Clay Street,Washington Street,37.7923909,-122.4210761
+Polk Street,Jackson Street,Washington Street,37.7941507,-122.4214163
+Post Street,Kearny Street,Post Street,37.7889065,-122.4036866
+Van Ness Avenue,Pacific Avenue,Broadway,37.79482429999999,-122.4231804
+Washington Street,Van Ness Avenue,Polk Street,37.7930755,-122.422808
+Washington Street,Polk Street,Larkin Street,37.7932722,-122.4212389
+Jackson Street,Polk Street,Van Ness Avenue,37.7941507,-122.4214163
+Polk Street,Bonita Street,Vallejo Street,37.7973874,-122.4220709
+Polk Street,Bonita Street,Green Street,37.7973874,-122.4220709
+Bush Street,Taylor Street,Mason Street,37.7897577,-122.412102
+Mission Street,Julia Street,Angelo's Alley,37.778053,-122.4124236
+Mission Street,6th Street,7th Street,37.7809745,-122.4087337
+Van Ness Avenue,Van Ness Avenue,Eddy Street,37.7829102,-122.4207636
+Van Ness Avenue,Van Ness Avenue,Turk Street,37.7819764,-122.4205794
+Van Ness Avenue,Van Ness Avenue,Grove Street,37.7782787,-122.4198293
+Van Ness Avenue,McAllister Street,Van Ness Avenue,37.7800953,-122.4201902
+Van Ness Avenue,Van Ness Avenue,Fell Street,37.7763836,-122.4194447
+Van Ness Avenue,Golden Gate Avenue,Van Ness Avenue,37.7810463,-122.4203923
+Van Ness Avenue,Van Ness Avenue,Golden Gate Avenue,37.7810463,-122.4203923
+Van Ness Avenue,Hayes Street,Van Ness Avenue,37.7773125,-122.4196331
+Polk Street,Alice B. Toklas Place,O'Farrell Street,37.7854391,-122.419668
+Leavenworth Street,Eddy Street,Ellis Street,37.7837352,-122.4142647
+Jones Street,Ellis Street,Eddy Street,37.784875,-122.4128063
+Bush Street,Parking Entrance Lane,Chatham Place,37.7908821,-122.4015519
+Geary Street,Jones Street,Geary Street,37.7867426,-122.4131825
+Post Street,Larkin Street,Meacham Place,37.7870509,-122.4183057
+Polk Street,Turk Street,Elm Street,37.7821712,-122.4190094
+Geary Street,Larkin Street,Polk Street,37.786119,-122.4181182
+Taylor Street,Sutter Street,Bush Street,37.78880950000001,-122.4119083
+Larkin Street,O'Farrell Street,Larkin Street,37.7851838,-122.417931
+Grove Street,Dr Carlton P Goodlett Place,Van Ness Avenue,37.7784944,-122.4182568
+Larkin Street,Larkin Street,Golden Gate Avenue,37.7814608,-122.4171737
+Geary Street,Leavenworth Street,Hyde Street,37.7865325,-122.4148339
+Sutter Street,Powell Street,Sutter Street,37.7892337,-122.4086166
+Polk Street,Grove Street,Dr Tom Waddell Place,37.7784944,-122.4182568
+Leavenworth Street,Turk Street,Eddy Street,37.7827943,-122.4140676
+Hyde Street,Golden Gate Avenue,McAllister Street,37.7816678,-122.4155242
+Polk Street,Willow Street,Eddy Street,37.7835829,-122.4192937
+Grove Street,Dr Carlton P Goodlett Place,Larkin Street,37.7784944,-122.4182568
+Taylor Street,Turk Street,Eddy Street,37.7832142,-122.4107842
+Taylor Street,O'Farrell Street,Geary Street,37.7860127,-122.4113644
+Mason Street,Sutter Street,Mason Street,37.7890236,-122.4102744
+Sutter Street,Mason Street,Taylor Street,37.7890236,-122.4102744
+Larkin Street,Turk Street,Eddy Street,37.7823865,-122.417359
+Jones Street,Bush Street,Sutter Street,37.7895396,-122.4137511
+Jones Street,Sutter Street,Jones Street,37.7886086,-122.4135648
+Jones Street,Post Street,Colin Place,37.78768170000001,-122.4133747
+Jones Street,Colin Place,Geary Street,37.7873942,-122.4133176
+Jones Street,Antonio Street,Ellis Street,37.7853194,-122.4128958
+Montgomery Street,Clay Street,Commercial Street,37.7946786,-122.4031771
+Montgomery Street,Bush Street,Sutter Street,37.790976,-122.4024281
+Pine Street,Battery Street,Sansome Street,37.7922635,-122.3997971
+Battery Street,Washington Street,Merchant Street,37.7958797,-122.400531
+Stockton Street,Stockton Street,Jackson Street,37.7958293,-122.4082803
+Kearny Street,Kearny Street,Sutter Street,37.78982740000001,-122.4038894
+Kearny Street,Kearny Street,Columbus Avenue,37.7969361,-122.4053194
+Montgomery Street,Montgomery Street,Jackson Street,37.7964276,-122.4035182
+Montgomery Street,Verdi Place,Pacific Avenue,37.797867,-122.4038234
+Montgomery Street,Verdi Place,Broadway,37.797867,-122.4038234
+Stockton Street,Stockton Tunnel,Stockton Street,37.7927714,-122.4076486
+Mission Street,11th Street,Mission Street,37.7743325,-122.4171372
+Montgomery Street,Washington Street,Montgomery Street,37.7955356,-122.4033268
+Montgomery Street,Jackson Street,Montgomery Street,37.7964276,-122.4035182
+Kearny Street,Hardie Place,Bush Street,37.7902722,-122.403981
+Washington Street,Hotaling Street,Columbus Avenue,37.7956019,-122.4027573
+Battery Street,Halleck Street,California Street,37.7937021,-122.4000847
+Battery Street,California Street,Pine Street,37.7932237,-122.3999893
+Pine Street,Montgomery Street,Kearny Street,37.7919106,-122.4025966
+Kearny Street,Nottingham Place,Broadway,37.79755919999999,-122.4054381
+Stockton Street,Green Street,Union Street,37.7994642,-122.40891
+Columbus Avenue,Kearny Street,Pacific Avenue,37.7969361,-122.4053194
+Redwood Street,Polk Street,Van Ness Avenue,37.7807903,-122.41873
