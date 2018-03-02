@@ -1,0 +1,248 @@
+index,index,Date_Time,Street,From,To,Real.Spots,Street.Length,any_spot
+27,113,2014-01-28 15:41:00,Jackson Street,Polk Street,Van Ness Avenue,3,139.32397,1
+39,389,2014-02-11 13:38:00,Stockton Street,Stockton Street,Jackson Street,0,84.28298000000001,0
+44,394,2014-02-11 13:43:00,Stockton Street,Stockton Tunnel,Stockton Street,0,35.786471999999996,0
+80,927,2014-03-25 15:41:00,Montgomery Street,Verdi Place,Pacific Avenue,0,66.27028,0
+50,400,2014-02-11 13:15:00,Montgomery Street,Washington Street,Montgomery Street,0,51.695087,0
+0,0,2014-01-07 16:19:00,Mission Street,25th Street,26th Street,4,179.13297,1
+24,110,2014-01-28 13:46:00,Washington Street,Polk Street,Larkin Street,13,146.47252,1
+35,385,2014-02-11 14:49:00,Pine Street,Battery Street,Sansome Street,0,104.53795,0
+85,932,2014-03-25 12:44:00,Jackson Street,Polk Street,Van Ness Avenue,0,139.32397,0
+59,506,2014-02-25 10:12:00,Stockton Street,Stockton Street,Jackson Street,0,84.28298000000001,0
+10,31,2014-01-21 17:35:00,23rd Street,Mission Street,Capp Street,0,96.04013,0
+53,403,2014-02-11 13:28:00,Kearny Street,Nottingham Place,Broadway,0,51.50119,0
+17,103,2014-01-28 13:45:00,Polk Street,Jackson Street,Washington Street,0,98.40858,0
+68,515,2014-02-25 11:17:00,Jones Street,Colin Place,Geary Street,0,72.54509,0
+25,111,2014-01-28 15:46:00,Washington Street,Polk Street,Larkin Street,11,146.47252,1
+28,114,2014-01-28 14:43:00,Polk Street,Bonita Street,Vallejo Street,0,53.127136,0
+36,386,2014-02-11 12:28:00,Battery Street,Washington Street,Merchant Street,0,48.13187,0
+29,277,2014-02-04 12:57:00,Van Ness Avenue,Van Ness Avenue,Fell Street,1,40.67155,1
+67,942,2014-03-26 16:09:00,Stockton Street,Green Street,Union Street,0,104.87597,0
+8,123,2014-01-29 11:13:00,Mission Street,6th Street,7th Street,6,276.52966000000004,1
+71,946,2014-03-26 14:05:00,Van Ness Avenue,Clay Street,Washington Street,0,98.93023000000001,0
+6,121,2014-01-29 08:16:00,Mission Street,6th Street,7th Street,0,276.52966000000004,0
+3,118,2014-01-29 14:55:00,Van Ness Avenue,Clay Street,Washington Street,2,98.93023000000001,1
+21,290,2014-02-05 07:49:00,Van Ness Avenue,McAllister Street,Van Ness Avenue,0,154.60497,0
+73,948,2014-03-26 14:02:00,Van Ness Avenue,O'Farrell Street,Alice B. Toklas Place,0,52.317448,0
+102,977,2014-03-26 14:10:00,Polk Street,Bonita Street,Vallejo Street,0,53.127136,0
+59,552,2014-03-05 21:56:00,23rd Street,Mission Street,Bartlett Street,6,96.03711,1
+44,415,2014-02-12 10:47:00,Polk Street,Grove Street,Dr Tom Waddell Place,0,58.041042000000004,0
+103,978,2014-03-26 16:27:00,Polk Street,Bonita Street,Vallejo Street,0,53.127136,0
+65,730,2014-03-19 17:42:00,Mission Street,11th Street,Mission Street,15,139.6519,1
+14,283,2014-02-05 09:06:00,Van Ness Avenue,Van Ness Avenue,Turk Street,1,52.83614300000001,1
+37,408,2014-02-12 07:33:00,Van Ness Avenue,Daniel Burnham Court,Post Street,0,52.191193,0
+40,411,2014-02-12 07:36:00,Van Ness Avenue,Van Ness Avenue,Grove Street,0,52.04572,0
+53,424,2014-02-12 14:24:00,Mission Street,11th Street,Mission Street,1,139.6519,1
+13,282,2014-02-05 07:49:00,Van Ness Avenue,Van Ness Avenue,Turk Street,0,52.83614300000001,0
+31,300,2014-02-05 13:57:00,Hyde Street,Golden Gate Avenue,McAllister Street,0,105.14411000000001,0
+76,951,2014-03-26 16:33:00,Columbus Avenue,Kearny Street,Pacific Avenue,0,28.695284,0
+33,404,2014-02-12 07:34:00,Van Ness Avenue,Geary Boulevard,Myrtle Street,0,52.51784,0
+70,945,2014-03-26 14:03:00,Van Ness Avenue,Bush Street,Austin Street,0,52.384674,0
+12,281,2014-02-05 07:48:00,Van Ness Avenue,Van Ness Avenue,Eddy Street,0,52.74426999999999,0
+29,298,2014-02-05 07:50:00,Van Ness Avenue,Hayes Street,Van Ness Avenue,4,63.787968000000006,1
+0,115,2014-01-29 14:54:00,Van Ness Avenue,Post Street,Hemlock Street,2,52.505486,1
+5,120,2014-01-29 08:17:00,Mission Street,Julia Street,Angelo's Alley,0,26.680704,0
+81,956,2014-03-26 18:44:00,Stockton Street,Stockton Street,Jackson Street,0,84.28298000000001,0
+35,406,2014-02-12 07:34:00,Van Ness Avenue,Van Ness Avenue,Turk Street,0,52.83614300000001,0
+79,954,2014-03-26 13:58:00,Van Ness Avenue,Van Ness Avenue,Grove Street,0,43.249866,0
+111,986,2014-03-26 18:07:00,Kearny Street,Nottingham Place,Broadway,0,51.50119,0
+86,961,2014-03-26 18:36:00,Montgomery Street,Montgomery Street,Jackson Street,0,28.596806,0
+110,985,2014-03-26 16:42:00,Kearny Street,Nottingham Place,Broadway,0,51.50119,0
+2,117,2014-01-29 16:24:00,Van Ness Avenue,Bush Street,Austin Street,0,52.384674,0
+23,292,2014-02-05 13:55:00,Geary Street,Leavenworth Street,Hyde Street,0,146.58632,0
+28,297,2014-02-05 07:46:00,Van Ness Avenue,Van Ness Avenue,Bush Street,0,39.027992,0
+46,417,2014-02-12 09:02:00,Van Ness Avenue,Van Ness Avenue,Fell Street,0,40.67155,0
+20,289,2014-02-05 09:28:00,Van Ness Avenue,Van Ness Avenue,Grove Street,0,52.04572,0
+97,972,2014-03-26 15:34:00,Washington Street,Van Ness Avenue,Polk Street,3,139.37155,1
+1,116,2014-01-29 14:55:00,Van Ness Avenue,Bush Street,Austin Street,0,52.384674,0
+91,966,2014-03-26 16:29:00,Polk Street,Clay Street,Washington Street,0,98.98388,0
+88,963,2014-03-26 16:01:00,Montgomery Street,Verdi Place,Broadway,0,37.796172999999996,0
+22,291,2014-02-05 09:28:00,Van Ness Avenue,McAllister Street,Van Ness Avenue,0,154.60497,0
+18,287,2014-02-05 15:45:00,Mission Street,6th Street,7th Street,15,276.52966000000004,1
+55,517,2014-02-26 18:36:00,Van Ness Avenue,Bush Street,Austin Street,0,52.384674,0
+24,293,2014-02-05 07:50:00,Van Ness Avenue,Van Ness Avenue,Fell Street,0,40.67155,0
+63,556,2014-03-05 18:32:00,Bryant Street,Mariposa Street,17th Street,4,141.70232,1
+4,119,2014-01-29 14:53:00,Van Ness Avenue,O'Farrell Street,Alice B. Toklas Place,0,52.317448,0
+100,975,2014-03-26 16:02:00,Montgomery Street,Washington Street,Montgomery Street,0,39.439125,0
+51,422,2014-02-12 09:02:00,Van Ness Avenue,Hayes Street,Van Ness Avenue,0,63.787968000000006,0
+56,518,2014-02-26 15:53:00,Van Ness Avenue,Clay Street,Washington Street,0,98.93023000000001,0
+17,286,2014-02-05 15:44:00,Mission Street,Julia Street,Angelo's Alley,0,26.680704,0
+108,983,2014-03-26 16:01:00,Bush Street,Taylor Street,Mason Street,0,146.52573999999998,0
+77,952,2014-03-26 16:20:00,Pine Street,Larkin Street,Polk Street,1,146.41655,1
+58,520,2014-02-26 15:54:00,Van Ness Avenue,Pacific Avenue,Broadway,0,104.314545,0
+68,943,2014-03-26 18:02:00,Stockton Street,Green Street,Union Street,0,104.87597,0
+72,947,2014-03-26 16:22:00,Van Ness Avenue,Clay Street,Washington Street,3,98.93023000000001,1
+99,974,2014-03-26 15:40:00,Jackson Street,Polk Street,Van Ness Avenue,4,139.32397,1
+106,981,2014-03-26 16:03:00,Washington Street,Hotaling Street,Columbus Avenue,0,51.84337,0
+38,409,2014-02-12 14:22:00,Mission Street,Julia Street,Angelo's Alley,2,26.680704,1
+27,296,2014-02-05 07:49:00,Van Ness Avenue,Van Ness Avenue,Golden Gate Avenue,2,44.815670000000004,1
+78,953,2014-03-26 16:20:00,Pine Street,Polk Street,Van Ness Avenue,1,139.4942,1
+74,949,2014-03-26 15:50:00,Battery Street,Washington Street,Merchant Street,0,48.13187,0
+16,285,2014-02-05 07:47:00,Van Ness Avenue,Daniel Burnham Court,Post Street,0,52.191193,0
+43,414,2014-02-12 10:46:00,Grove Street,Dr Carlton P Goodlett Place,Van Ness Avenue,0,140.25523,0
+47,418,2014-02-12 07:35:00,Van Ness Avenue,Golden Gate Avenue,Van Ness Avenue,0,63.262,0
+80,955,2014-03-26 16:06:00,Stockton Street,Stockton Street,Jackson Street,0,84.28298000000001,0
+93,968,2014-03-26 16:28:00,Polk Street,Jackson Street,Washington Street,0,98.40858,0
+39,410,2014-02-12 09:36:00,Polk Street,Turk Street,Elm Street,0,52.597584,0
+62,555,2014-03-05 21:55:00,23rd Street,Mission Street,Capp Street,4,96.04013,1
+49,420,2014-02-12 07:33:00,Van Ness Avenue,Van Ness Avenue,Bush Street,0,39.027992,0
+94,969,2014-03-26 14:01:00,Van Ness Avenue,McAllister Street,Van Ness Avenue,0,56.007236,0
+105,980,2014-03-26 16:26:00,Polk Street,Bonita Street,Green Street,0,51.76525,0
+11,280,2014-02-05 07:47:00,Van Ness Avenue,Geary Boulevard,Myrtle Street,1,52.51784,1
+15,284,2014-02-05 07:46:00,Van Ness Avenue,Bush Street,Fern Street,0,52.405315,0
+90,965,2014-03-26 14:12:00,Polk Street,Clay Street,Washington Street,0,98.98388,0
+66,941,2014-03-26 14:02:00,Van Ness Avenue,Post Street,Hemlock Street,0,52.505486,0
+42,413,2014-02-12 09:07:00,Grove Street,Dr Carlton P Goodlett Place,Van Ness Avenue,0,140.25523,0
+34,405,2014-02-12 07:34:00,Van Ness Avenue,Van Ness Avenue,Eddy Street,2,52.74426999999999,1
+48,419,2014-02-12 07:35:00,Van Ness Avenue,Van Ness Avenue,Golden Gate Avenue,6,44.815670000000004,1
+69,944,2014-03-26 18:46:00,Stockton Street,Green Street,Union Street,0,104.87597,0
+109,984,2014-03-26 17:02:00,Jones Street,Bush Street,Sutter Street,0,105.07395,0
+10,279,2014-02-05 13:55:00,Geary Street,Jones Street,Geary Street,0,109.843506,0
+50,421,2014-02-12 07:37:00,Van Ness Avenue,Hayes Street,Van Ness Avenue,8,63.787968000000006,1
+32,301,2014-02-05 15:41:00,Hyde Street,Golden Gate Avenue,McAllister Street,0,105.14411000000001,0
+87,962,2014-03-26 16:01:00,Montgomery Street,Verdi Place,Pacific Avenue,0,66.27028,0
+57,519,2014-02-26 18:48:00,Van Ness Avenue,Bush Street,Fern Street,0,52.405315,0
+12,129,2014-01-30 16:29:00,Pine Street,Polk Street,Van Ness Avenue,0,139.4942,0
+75,1025,2014-03-27 14:54:00,Taylor Street,O'Farrell Street,Geary Street,0,104.98754,0
+76,1026,2014-03-27 15:51:00,Montgomery Street,Washington Street,Montgomery Street,2,39.439125,1
+69,1019,2014-03-27 18:51:00,Van Ness Avenue,Pacific Avenue,Broadway,0,104.314545,0
+65,1015,2014-03-27 18:43:00,Polk Street,Jackson Street,Washington Street,0,98.40858,0
+70,1020,2014-03-27 16:57:00,Washington Street,Van Ness Avenue,Polk Street,4,139.37155,1
+31,303,2014-02-06 19:55:00,Van Ness Avenue,Bush Street,Fern Street,0,52.405315,0
+45,995,2014-03-27 13:47:00,Pine Street,Battery Street,Sansome Street,0,104.53795,0
+19,136,2014-01-30 19:11:00,Polk Street,Jackson Street,Washington Street,0,98.40858,0
+83,1033,2014-03-27 16:12:00,Polk Street,Bonita Street,Green Street,0,51.76525,0
+60,1010,2014-03-27 15:45:00,Stockton Street,Stockton Tunnel,Stockton Street,0,35.786471999999996,0
+74,1024,2014-03-27 14:48:00,Grove Street,Dr Carlton P Goodlett Place,Larkin Street,0,145.29703999999998,0
+21,138,2014-01-30 17:18:00,Washington Street,Van Ness Avenue,Polk Street,0,139.37155,0
+83,732,2014-03-21 21:20:00,Polk Street,Ellis Street,Olive Street,0,52.74021,0
+84,733,2014-03-21 20:10:00,Polk Street,Alice B. Toklas Place,O'Farrell Street,0,52.3586,0
+13,148,2014-01-31 13:23:00,Van Ness Avenue,Clay Street,Washington Street,6,98.93023000000001,1
+75,602,2014-03-14 21:39:00,Washington Street,Polk Street,Larkin Street,1,146.47252,1
+175,1046,2014-03-28 21:47:00,Polk Street,Alice B. Toklas Place,O'Farrell Street,0,52.3586,0
+214,1085,2014-03-28 20:11:00,Larkin Street,Larkin Street,Golden Gate Avenue,0,95.939,0
+78,605,2014-03-14 18:21:00,Polk Street,Bonita Street,Vallejo Street,1,53.127136,1
+207,1078,2014-03-28 20:30:00,Larkin Street,O'Farrell Street,Larkin Street,0,52.4134,0
+20,155,2014-01-31 15:01:00,Van Ness Avenue,Van Ness Avenue,Bush Street,0,39.027992,0
+82,731,2014-03-21 20:11:00,Polk Street,Ellis Street,Olive Street,0,52.74021,0
+50,524,2014-02-28 19:56:00,23rd Street,Mission Street,Capp Street,0,96.04013,0
+194,1065,2014-03-28 20:32:00,Polk Street,Turk Street,Elm Street,0,52.597584,0
+26,161,2014-01-31 13:24:00,Van Ness Avenue,Pacific Avenue,Broadway,7,104.314545,1
+130,779,2014-03-21 21:18:00,Larkin Street,Myrtle Street,Geary Street,0,52.188342999999996,0
+91,740,2014-03-21 22:09:00,Montgomery Street,Bush Street,Sutter Street,0,105.38421000000001,0
+155,804,2014-03-21 19:38:00,Grove Street,Dr Carlton P Goodlett Place,Larkin Street,1,145.29703999999998,1
+108,757,2014-03-21 20:12:00,Polk Street,Turk Street,Elm Street,0,52.597584,0
+16,151,2014-01-31 13:51:00,Pine Street,Larkin Street,Polk Street,2,146.41655,1
+133,782,2014-03-21 20:19:00,Larkin Street,Larkin Street,Golden Gate Avenue,0,95.939,0
+183,1054,2014-03-28 21:25:00,Van Ness Avenue,Geary Boulevard,Myrtle Street,0,52.51784,0
+53,558,2014-03-07 21:05:00,23rd Street,Mission Street,Bartlett Street,2,96.03711,1
+87,736,2014-03-21 20:39:00,Jones Street,Ellis Street,Eddy Street,0,104.76796999999999,0
+129,778,2014-03-21 20:21:00,Larkin Street,Myrtle Street,Geary Street,0,52.188342999999996,0
+76,603,2014-03-14 19:22:00,Jackson Street,Polk Street,Van Ness Avenue,0,139.32397,0
+101,750,2014-03-21 21:23:00,Van Ness Avenue,O'Farrell Street,Alice B. Toklas Place,0,52.317448,0
+195,1066,2014-03-28 21:48:00,Polk Street,Turk Street,Elm Street,3,52.597584,1
+201,1072,2014-03-28 21:34:00,Van Ness Avenue,Van Ness Avenue,Grove Street,0,52.04572,0
+159,808,2014-03-21 20:46:00,Mason Street,Sutter Street,Mason Street,0,53.208504000000005,0
+5,48,2014-01-24 16:01:00,23rd Street,South Van Ness Avenue,Capp Street,2,96.3013,1
+32,167,2014-01-31 13:13:00,Polk Street,Bonita Street,Vallejo Street,0,53.127136,0
+182,1053,2014-03-28 20:53:00,Geary Street,Jones Street,Geary Street,0,109.843506,0
+136,785,2014-03-21 20:13:00,Polk Street,Grove Street,Dr Tom Waddell Place,0,58.041042000000004,0
+102,751,2014-03-21 22:00:00,Van Ness Avenue,O'Farrell Street,Alice B. Toklas Place,0,52.317448,0
+160,809,2014-03-21 18:37:00,Sutter Street,Mason Street,Taylor Street,0,146.40962,0
+7,50,2014-01-24 13:35:00,23rd Street,Mission Street,Capp Street,5,96.04013,1
+12,147,2014-01-31 14:23:00,Van Ness Avenue,Geary Boulevard,Myrtle Street,0,52.51784,0
+127,776,2014-03-21 20:21:00,Larkin Street,O'Farrell Street,Larkin Street,1,52.4134,1
+49,523,2014-02-28 19:56:00,23rd Street,South Van Ness Avenue,Capp Street,0,96.3013,0
+22,157,2014-01-31 15:05:00,Polk Street,Clay Street,Washington Street,1,98.98388,1
+210,1081,2014-03-28 20:30:00,Larkin Street,Myrtle Street,Geary Street,0,52.188342999999996,0
+163,812,2014-03-21 18:36:00,Bush Street,Taylor Street,Mason Street,1,146.52573999999998,1
+47,521,2014-02-28 19:55:00,23rd Street,Mission Street,Bartlett Street,0,96.03711,0
+51,525,2014-02-28 16:54:00,Bryant Street,Mariposa Street,17th Street,7,141.70232,1
+146,795,2014-03-21 20:33:00,Leavenworth Street,Turk Street,Eddy Street,4,104.82981,1
+192,1063,2014-03-28 21:52:00,Mission Street,6th Street,7th Street,0,276.52966000000004,0
+145,794,2014-03-21 20:22:00,Larkin Street,Sutter Street,Larkin Street,0,48.555763,0
+212,1083,2014-03-28 20:06:00,Grove Street,Dr Carlton P Goodlett Place,Van Ness Avenue,1,140.25523,1
+93,742,2014-03-21 18:59:00,Van Ness Avenue,Geary Boulevard,Myrtle Street,0,52.51784,0
+21,156,2014-01-31 13:16:00,Polk Street,Clay Street,Washington Street,1,98.98388,1
+38,308,2014-02-07 18:42:00,Van Ness Avenue,Bush Street,Fern Street,2,52.405315,1
+99,748,2014-03-21 21:38:00,Van Ness Avenue,Bush Street,Austin Street,0,52.384674,0
+188,1059,2014-03-28 21:25:00,Van Ness Avenue,Bush Street,Fern Street,0,52.405315,0
+213,1084,2014-03-28 19:23:00,Larkin Street,Larkin Street,Golden Gate Avenue,0,95.939,0
+65,592,2014-03-14 21:04:00,Pine Street,Polk Street,Van Ness Avenue,0,139.4942,0
+185,1056,2014-03-28 21:26:00,Van Ness Avenue,Van Ness Avenue,Turk Street,4,52.83614300000001,1
+94,743,2014-03-21 21:50:00,Van Ness Avenue,Geary Boulevard,Myrtle Street,0,52.51784,0
+73,600,2014-03-14 21:39:00,Washington Street,Van Ness Avenue,Polk Street,0,139.37155,0
+35,170,2014-01-31 15:07:00,Polk Street,Bonita Street,Green Street,0,51.76525,0
+2,45,2014-01-24 13:35:00,23rd Street,Bartlett Street,Valencia Street,0,97.607445,0
+36,306,2014-02-07 18:19:00,Van Ness Avenue,Post Street,Hemlock Street,0,52.505486,0
+222,1093,2014-03-28 21:33:00,Van Ness Avenue,Golden Gate Avenue,Van Ness Avenue,0,63.262,0
+217,1088,2014-03-28 20:36:00,Redwood Street,Polk Street,Van Ness Avenue,2,139.46687,1
+59,586,2014-03-14 17:58:00,Van Ness Avenue,Clay Street,Washington Street,0,98.93023000000001,0
+10,53,2014-01-24 16:23:00,Bryant Street,Mariposa Street,17th Street,2,141.70232,1
+105,754,2014-03-21 18:47:00,Post Street,Larkin Street,Meacham Place,0,116.305824,0
+23,158,2014-01-31 13:16:00,Polk Street,Jackson Street,Washington Street,0,98.40858,0
+140,664,2014-03-15 08:19:00,Kearny Street,Kearny Street,Sutter Street,0,41.051586,0
+113,637,2014-03-15 21:36:00,Post Street,Larkin Street,Meacham Place,0,116.305824,0
+146,670,2014-03-15 20:54:00,Larkin Street,Sutter Street,Larkin Street,0,48.555763,0
+271,888,2014-03-22 14:30:00,Taylor Street,O'Farrell Street,Geary Street,3,104.98754,1
+202,819,2014-03-22 15:01:00,Polk Street,Ellis Street,Olive Street,0,52.74021,0
+4,5,2014-01-18 20:20:00,Larkin Street,Cedar Street,Post Street,0,52.32425,0
+227,844,2014-03-22 14:07:00,Larkin Street,Cedar Street,Post Street,5,52.32425,1
+79,564,2014-03-08 19:46:00,23rd Street,Mission Street,Bartlett Street,0,96.03711,0
+166,690,2014-03-15 21:41:00,Taylor Street,Turk Street,Eddy Street,0,104.8531,0
+194,718,2014-03-15 18:29:00,Jones Street,Sutter Street,Jones Street,0,72.91717,0
+107,631,2014-03-15 19:00:00,Van Ness Avenue,O'Farrell Street,Alice B. Toklas Place,0,52.317448,0
+263,880,2014-03-22 12:49:00,Van Ness Avenue,McAllister Street,Van Ness Avenue,2,56.007236,1
+126,650,2014-03-15 08:58:00,Taylor Street,Sutter Street,Bush Street,0,105.05198999999999,0
+61,441,2014-02-15 09:34:00,Van Ness Avenue,Golden Gate Avenue,Van Ness Avenue,0,63.262,0
+188,712,2014-03-15 19:06:00,Bush Street,Taylor Street,Mason Street,0,146.52573999999998,0
+116,640,2014-03-15 18:46:00,Larkin Street,Cedar Street,Post Street,0,52.32425,0
+78,533,2014-03-01 18:31:00,Mission Street,25th Street,26th Street,0,179.13297,0
+238,855,2014-03-22 13:46:00,Van Ness Avenue,McAllister Street,Van Ness Avenue,0,154.60497,0
+87,611,2014-03-15 18:51:00,Polk Street,Alice B. Toklas Place,O'Farrell Street,3,52.3586,1
+151,675,2014-03-15 08:41:00,Stockton Street,Stockton Tunnel,Stockton Street,0,35.786471999999996,0
+211,828,2014-03-22 17:36:00,Van Ness Avenue,Geary Boulevard,Myrtle Street,0,52.51784,0
+17,171,2014-02-01 14:05:00,23rd Street,Mission Street,Bartlett Street,0,96.03711,0
+69,449,2014-02-15 10:42:00,Polk Street,Willow Street,Eddy Street,1,52.7432,1
+117,641,2014-03-15 20:54:00,Larkin Street,Cedar Street,Post Street,0,52.32425,0
+228,845,2014-03-22 15:07:00,Larkin Street,Cedar Street,Post Street,1,52.32425,1
+274,891,2014-03-22 13:05:00,Sutter Street,Mason Street,Taylor Street,4,146.40962,1
+200,724,2014-03-15 18:30:00,Jones Street,Antonio Street,Ellis Street,1,51.088688,1
+36,323,2014-02-08 07:34:00,Van Ness Avenue,Van Ness Avenue,Grove Street,0,52.04572,0
+221,838,2014-03-22 13:08:00,Van Ness Avenue,Daniel Burnham Court,Post Street,0,52.191193,0
+252,869,2014-03-22 14:46:00,Polk Street,Grove Street,Dr Tom Waddell Place,0,58.041042000000004,0
+234,851,2014-03-22 13:00:00,Pine Street,Polk Street,Van Ness Avenue,9,139.4942,1
+198,722,2014-03-15 18:29:00,Jones Street,Colin Place,Geary Street,0,72.54509,0
+265,882,2014-03-22 12:45:00,Mission Street,11th Street,Mission Street,0,139.6519,0
+199,723,2014-03-15 20:39:00,Jones Street,Colin Place,Geary Street,0,72.54509,0
+92,616,2014-03-15 18:30:00,Jones Street,Ellis Street,Eddy Street,0,104.76796999999999,0
+176,700,2014-03-15 18:20:00,Mason Street,Sutter Street,Mason Street,0,53.208504000000005,0
+232,849,2014-03-22 12:59:00,Pine Street,Larkin Street,Polk Street,4,146.41655,1
+213,830,2014-03-22 15:49:00,Van Ness Avenue,Van Ness Avenue,Eddy Street,1,52.74426999999999,1
+11,56,2014-01-25 09:55:00,23rd Street,Bartlett Street,Valencia Street,4,97.607445,1
+150,674,2014-03-15 20:44:00,Leavenworth Street,Turk Street,Eddy Street,0,104.82981,0
+81,566,2014-03-08 19:45:00,23rd Street,South Van Ness Avenue,Capp Street,0,96.3013,0
+44,344,2014-02-09 09:50:00,Washington Street,Polk Street,Larkin Street,6,146.47252,1
+8,183,2014-02-02 14:02:00,Van Ness Avenue,Geary Boulevard,Myrtle Street,0,52.51784,0
+31,206,2014-02-02 15:02:00,Van Ness Avenue,Hayes Street,Van Ness Avenue,1,63.787968000000006,1
+105,913,2014-03-23 17:11:00,Washington Street,Polk Street,Larkin Street,0,146.47252,0
+98,906,2014-03-23 16:08:00,Polk Street,Clay Street,Washington Street,5,98.98388,1
+38,338,2014-02-09 08:14:00,Van Ness Avenue,Van Ness Avenue,Bush Street,1,39.027992,1
+108,916,2014-03-23 18:32:00,Polk Street,Bonita Street,Vallejo Street,0,53.127136,0
+5,66,2014-01-26 17:52:00,Bryant Street,Mariposa Street,17th Street,3,141.70232,1
+36,336,2014-02-09 09:40:00,Pine Street,Larkin Street,Polk Street,3,146.41655,1
+68,471,2014-02-16 08:17:00,Washington Street,Van Ness Avenue,Polk Street,4,139.37155,1
+110,918,2014-03-23 18:32:00,Polk Street,Bonita Street,Green Street,0,51.76525,0
+2,63,2014-01-26 20:40:00,23rd Street,Bartlett Street,Valencia Street,0,97.607445,0
+47,347,2014-02-09 08:34:00,Polk Street,Bonita Street,Green Street,0,51.76525,0
+17,192,2014-02-02 14:04:00,Van Ness Avenue,Van Ness Avenue,Grove Street,0,52.04572,0
+33,208,2014-02-02 09:55:00,Post Street,Kearny Street,Post Street,0,104.36296,0
+97,905,2014-03-23 16:52:00,Pine Street,Polk Street,Van Ness Avenue,8,139.4942,1
+53,456,2014-02-16 10:31:00,Van Ness Avenue,Clay Street,Washington Street,0,98.93023000000001,0
+104,912,2014-03-23 17:10:00,Washington Street,Van Ness Avenue,Polk Street,0,139.37155,0
+41,341,2014-02-09 09:32:00,Van Ness Avenue,Pacific Avenue,Broadway,1,104.314545,1
+65,468,2014-02-16 10:59:00,Polk Street,Jackson Street,Washington Street,2,98.40858,1
+28,203,2014-02-02 14:58:00,Van Ness Avenue,Van Ness Avenue,Golden Gate Avenue,1,44.815670000000004,1
+99,907,2014-03-23 16:07:00,Polk Street,Jackson Street,Washington Street,5,98.40858,1
+107,915,2014-03-23 16:06:00,Polk Street,Bonita Street,Vallejo Street,3,53.127136,1
+93,901,2014-03-23 15:59:00,Van Ness Avenue,Clay Street,Washington Street,7,98.93023000000001,1
