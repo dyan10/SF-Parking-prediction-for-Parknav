@@ -17,11 +17,11 @@ For better version control and easier future reference we have put our work to f
 ### Features Folder:
 #### This folder documents our efforts in generating different features for the model.
 - EDA: EDA on the training data and visualization of the coordinates in the three datasets
-- EDA_validation_set/EDA_validation_set_updated: Generate a reliable validation set using the test data distribution
+- Val_selection: Generate a reliable validation set using the test data distribution
 - geocode_sensor: Get the longitude and latitude of the street blocks in the sensor data
 - parking_record_match: Map the meter coordinates in the records data to the streets in the training data, and perform aggregation by street and time-related features
-- process_parkingrecords: Convert the time string in the records data to time-related features
-- long_lat_table_217:  Get the longitude and latitude of the streets in the sensor data
+- parkingrecords_addtime: Convert the time string in the records data to time-related features
+- geocode_train:  Get the longitude and latitude of the streets in the sensor data
 - sensordata: Calculate the average occupancy rate for different time types by street in sensor data
 
 ### Models Folder:
