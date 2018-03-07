@@ -11,7 +11,7 @@ For better version control and easier future reference we have put our work to f
 - aggregated_sensor.csv: aggregated sensor data (calculated spots & occupancy percentage)
 - pr_streetmatch.csv: parking record meter data matched to each individual street pairs
 - sensor_longlat.csv: the geo encoding of unique block address in sensor data
-- train_longlat.csv: the geo encoding of unique Streets, From_To pairs in training data 
+- train_longlat.csv/train_longlat_full.csv: the geo encoding of unique Streets, From_To pairs in training data 
 - validation_set.csv: validation set
 
 ### Features Folder:
