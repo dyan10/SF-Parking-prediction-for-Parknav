@@ -8,3 +8,6 @@ final-project-dixin-chen created by GitHub Classroom
 - sensor_longlat.csv - the geo encoding of unique block address in sensor data
 - train_longlat.csv - the geo encoding of unique Streets, From_To pairs in training data 
 - validation_set.csv - validation set
+
+## Submission Folder:
+#### Submission foler keeps the output of our models.
