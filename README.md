@@ -1,7 +1,7 @@
 # final-project-dixin-chen
 final-project-dixin-chen created by GitHub Classroom
 
-## Data Folder:
+### Data Folder:
 #### Data foler keeps aggregated/process data files so we can later directly join them with other data.
 - aggregated_sensor.csv  - aggregated sensor data (calculated spots & occupancy percentage
 - pr_streetmatch.csv - parking record meter data matched to each individual street pairs
@@ -9,5 +9,5 @@ final-project-dixin-chen created by GitHub Classroom
 - train_longlat.csv - the geo encoding of unique Streets, From_To pairs in training data 
 - validation_set.csv - validation set
 
-## Submission Folder:
+### Submission Folder:
 #### Submission foler keeps the output of our models.
