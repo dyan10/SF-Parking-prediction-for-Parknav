@@ -1,5 +1,4 @@
-# final-project-dixin-chen
-final-project-dixin-chen created by GitHub Classroom
+# TITLE
 
 ### Data Folder:
 #### Data foler keeps aggregated/process data files so we can later directly join them with other data.
