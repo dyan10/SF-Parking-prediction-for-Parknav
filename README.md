@@ -1,6 +1,6 @@
 # Prediction on Parking Availability in SF
 
-This repo documents our work for the final project of Advanced Machine Learning course lectured by Yannet Interian at University of San Francisco. 
+This repo documents our work for the final project of Advanced Machine Learning course of M.S. in Data Science program at University of San Francisco. 
 
 The goal of the project is to predict whether a parking spot is available at a given date time on a given street for the time period between March 2014 and November 2016. We used all three datasets provided for the model, namely 'train-parking.csv', 'ParkingSensorData.csv', and 'parkingrecords.csv'. We refer them as training data, sensor data, and records data respectively.
 
